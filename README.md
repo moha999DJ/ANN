@@ -41,7 +41,8 @@ after that we choose x for input data and y for target data
 
 ![Capture8](https://github.com/moha999DJ/ANN/assets/69479417/cd8d35bd-40a8-4fb6-824c-4e82df12f78e)
 
-NOTE⚠️choose outputs then Export 
+> [!important]
+> choose outputs then Export 
 the step 8 is important as you see here in image below 
 if we forget step 8 you can't design the graph 
 
