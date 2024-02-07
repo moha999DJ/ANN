@@ -4,7 +4,7 @@
 
 Creation of Artificial Neural Networks (ANN) in Matlab
 Here an example of using nntool by creation ANN in Matlab 
-we take a SIN(x) for exemple 
+we take a ```Sin(x)``` for exemple 
 Follow this steps below:
 
 1-we write the code and run it (in this case i use sin(x))
