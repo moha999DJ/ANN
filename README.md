@@ -11,8 +11,8 @@ Follow this steps below:
 
 ![Capture](https://github.com/moha999DJ/ANN/assets/69479417/6cefb609-cf50-42fe-86f2-2fd3ed942d3a)
 
-2-in COMMAND WINDOW we write nntool > import .
-after that we choose x for input data and y for target data
+2-in COMMAND WINDOW we write ```nntool``` > ```import``` .
+after that we choose x for ```input data``` and y for ```target data```
 
 ![Capture2](https://github.com/moha999DJ/ANN/assets/69479417/8a432dcb-16a6-44d2-83d6-615327a34a4b)
 
@@ -20,7 +20,7 @@ after that we choose x for input data and y for target data
 
 ![Capture3](https://github.com/moha999DJ/ANN/assets/69479417/840e14fd-b311-4f06-9f75-de4c89ee31e8)
 
-4- x for input data and y for target data and entre creat
+4- x for ```input data``` and y for ```target data``` and entre creat
 
 ![Capture4](https://github.com/moha999DJ/ANN/assets/69479417/df0ed748-aa8e-40d6-9d48-88fd7381bfbc)
 
